@@ -1,6 +1,4 @@
-def main():
-    print("Hello from yomica!")
+from chatbot import chat_cli
 
+chat_cli.main()
 
-if __name__ == "__main__":
-    main()
